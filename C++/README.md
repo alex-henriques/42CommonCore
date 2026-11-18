@@ -4,7 +4,7 @@ A collection of C++ modules completed as part of the 42 curriculum. Each module 
 
 ---
 
-## Module 00 - Namespacesm, classes, member functions, stdio streams
+## Module 00 - Namespaces, classes, member functions, stdio streams
 
 - **ex00 - Megaphone:** Uppercase all command line arguments;
 - **ex01 - PhoneBook:** In memory phonebook for up to 8 contacts with `ADD`, `SEARCH`, and `EXIT`, commands;
@@ -12,7 +12,7 @@ A collection of C++ modules completed as part of the 42 curriculum. Each module 
 
 ---
 
-## Module 01 - Memory allocation, references, pointers to memebers, file streams
+## Module 01 - Memory allocation, references, pointers to members, file streams
 
 - **ex00 - BraiiiiiiinnnzzzZ:** Zombie class demonstrating heap vs stack allocation;
 - **ex01 - Moar brainz!:** `zombieHorde()` allocates N zombies with a single `new[]`;
