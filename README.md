@@ -23,5 +23,5 @@ Projects from the Common Core at [42 Luxembourg](https://42luxembourg.lu), compl
 ## Larger projects (separate repos)
 
 - [Transcendence](https://github.com/alex-henriques/Transcendence): real-time multiplayer quiz game; I was tech lead and built the Docker and nginx infrastructure
-- [Taskmaster](https://github.com/alex-henriques/Taskmaster): process supervisor in Python (link once public)
+- [Taskmaster](https://github.com/alex-henriques/Taskmaster): process supervisor in Python
 - [Inception](https://github.com/alex-henriques/Inception): WordPress, MariaDB and NGINX stack, each in its own container; Docker, Docker Compose, TLS, Docker secrets
