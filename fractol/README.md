@@ -1,6 +1,6 @@
 # fract-ol
 
-fract-ol is a C fractal viewer using MiniLibX. I t render Mandelbrot, Julia and Burning Ship sets in an interactive window.
+fract-ol is a C fractal viewer using MiniLibX. It render Mandelbrot, Julia and Burning Ship sets in an interactive window.
 
 ## Dependencies
 
